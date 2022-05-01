@@ -1,0 +1,3 @@
+﻿  BitManipulation.cpp
+C:\Users\leahm\OneDrive\Documents\Systems Programming\Moore_Jason_BitManipulation\BitManipMain\BitManiMenu\BitManiMenu\BitManipulation\BitManipulation.cpp(17,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BitManiMenu.vcxproj -> C:\Users\leahm\OneDrive\Documents\Systems Programming\Moore_Jason_BitManipulation\BitManipMain\BitManiMenu\Debug\BitManiMenu.exe
